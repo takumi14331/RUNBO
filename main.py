@@ -1,1 +1,2 @@
 print("yazawa")
+print("yazawa")
